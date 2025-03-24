@@ -1,0 +1,10 @@
+README.md
+setup.py
+audio_rec/__init__.py
+audio_rec/main.py
+audio_recorder.egg-info/PKG-INFO
+audio_recorder.egg-info/SOURCES.txt
+audio_recorder.egg-info/dependency_links.txt
+audio_recorder.egg-info/entry_points.txt
+audio_recorder.egg-info/requires.txt
+audio_recorder.egg-info/top_level.txt
